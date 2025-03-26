@@ -1,9 +1,11 @@
 ---
-layout: default
-Title: Focus Time
-Date: 2025-03-03 11:33:00 +0800
-Categories: [behaviour, focus]
-tags: [youth, reels, focus time, trend]         # TAG names should always be lowercase 
+Title: FOCUS TIME
+Author: Vidhya
+Date: 2025-03-25 11:14:00 +0800
+Categories: [TOP_CATEGORY, SUB_CATEGOR]
+tags: [youth, reels, focus time, trend]      
+description: Average Attention span # TAG names should always be lowercase 
+toc: false
 ---
 
 # Increase your Focus time
@@ -27,7 +29,8 @@ console.log('hello world!')
 ```
 ## Illustrations
 
-![img-description](https://pixabay.com/photos/pocket-watch-time-sand-clock-3156771)
+![img-description](/https://pixabay.com/photos/pocket-watch-time-sand-clock-3156771)
+_Watch Time_
 
 
 
